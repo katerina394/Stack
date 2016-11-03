@@ -1,4 +1,4 @@
-Реализация класса MyStack с методами:
+Class MyStack included methods:
 top
 pop
 push
